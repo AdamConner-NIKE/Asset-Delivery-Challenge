@@ -4,7 +4,7 @@ Welcome to the Asset Delivery Code Challenge. This is a series of questions that
 
 ## Rules
 
-1. Clone this repo and put your answers in your own repo. We'll ask you to share the link to your repo during the interview.
+1. Create a new private repo and put your answers in your own repo. We'll ask you to share the link to your repo during the interview.
 2. We expect this should take between 1 and 2 hours to complete. If you're not finished after 2 hours, that is ok and you don't need to continue. We will simply review what you have finished in that time. There are no penalties for extra time, but we won't be adding "bonus points" because you did a bunch of extra work.
 3. Choose between Java or TypeScript for your code. We are in the middle of migrating from Java to TS and want you to write in whatever you are most comfortable with.
 4. Use online resources and feel free to copy code as a starting point. Your ability to describe what and why is very important. We will be comparing your answers to online source and also will ask you to make some in person changes so we are sure you actually know what you are talking about.
@@ -43,7 +43,7 @@ In the following grid, no move were left so it was a draw
 Ok, let's get started on the questions.
 
 ## Question 1
-Provide 2 examples of possible ways to model the game board. Think about an empty board, partially completed, and fully completed.
+Provide 2 examples of possible data structures to describe the game board. Think about an empty board, partially completed, and fully completed.
 
 ## Question 2
 Using your favorite model from Question 1, Write a method that takes a game board as input and returns which player has won.
