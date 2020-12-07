@@ -27,19 +27,19 @@ Here are the rules of Tic-Tac-Toe:
 * No more moves can be played if the game is over.
 
 You can get creative with how you display the board, but a simple way is just use * as empty spaces.
-An empty board would look like:
-    * * *
-    * * *
-    * * *
-In the following grid, 7 turns were taken ending with a win by player 1 (X)
-    X X X
-    O O X
-    * * O
-In the following grid, no move were left so it was a draw
-    X X O
-    O O X
-    X O X
-
+An empty board would look like:  
+    * * *  
+    * * *  
+    * * *  
+In the following grid, 7 turns were taken ending with a win by player 1 (X)  
+    X X X  
+    O O X  
+    * * O  
+In the following grid, no move were left so it was a draw  
+    X X O  
+    O O X  
+    X O X  
+      
 Ok, let's get started on the questions.
 
 ## Question 1
